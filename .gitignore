@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.*
+cookies.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# IDE
+.idea/
+
+# Output / data
+output/
+data/
+*.log
